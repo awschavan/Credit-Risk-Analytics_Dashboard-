@@ -208,14 +208,14 @@ The project uses a publicly available loan dataset containing over **32,000 loan
 
 # About Me
 
-**Aakash Chauhan**
+**Swapnil Chavan**
 
 🎓 MCA (Artificial Intelligence & Machine Learning)
 
 💼 Aspiring Data Analyst | Business Intelligence Enthusiast
 
-- LinkedIn: https://www.linkedin.com/in/aakash-chauhan-1ab0ab280/
-- GitHub: https://github.com/skyisme33
+- LinkedIn: https://www.linkedin.com/in/swapnil-chavan-7b413124a/
+- GitHub: https://github.com/awschavan
 
 ---
 
